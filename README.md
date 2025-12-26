@@ -14,7 +14,7 @@
 - RAM: ít nhất 4GB (khuyến nghị 8GB+)
 
 ## 🔧 Cài đặt
-1. Clone repository: `git clone <repository-url> && cd x-engage-bot`
+1. Clone repository: `git clone https://github.com/tomnuongcay/x-engage-bot.git && cd x-engage-bot`
 2. Tạo môi trường ảo: `python -m venv venv`
    - Windows: `venv\Scripts\activate`
    - Linux/Mac: `source venv/bin/activate`
