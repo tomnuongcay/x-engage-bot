@@ -1,0 +1,5 @@
+seleniumbase
+pyotp
+colorama
+pyfiglet
+rich
